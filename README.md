@@ -99,8 +99,8 @@ Middle Python Developer
 
 # 💳 Контакты
 
-[📧 h4vm@yandex.ru](mailto:📧)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-[🐦 @xh4vm](https://t.me/xh4vm)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xh4vm)
 
-[👾 github.com/xh4vm](https://github.com/xh4vm)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xh4vm)
