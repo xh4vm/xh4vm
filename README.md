@@ -3,13 +3,12 @@
 👋 Я **software developer** с 5-летним опытом в данной сфере. Последние несколько лет фокусируюсь на разработке бэкенда веб приложений на языке **Python**. Также люблю разбираться с 
 **Data-Engeneer** и **Security** тасками
 
-### Контакты
+### 💳 Контакты
 
-[📧 h4vm@yandex.ru](mailto:h4vm@yandex.ru)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xh4vm)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xh4vm)
 
-[🐦 @xh4vm](https://t.me/xh4vm)
-
-[👾 github.com/xh4vm](https://github.com/xh4vm)
 
 ---
 
