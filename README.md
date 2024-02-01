@@ -1,10 +1,4 @@
 
-### 💳 Контакты
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xh4vm)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xh4vm)
-
----
 
 # 👨‍🎓 Дополнительное образование
 
